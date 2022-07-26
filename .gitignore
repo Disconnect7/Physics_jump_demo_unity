@@ -11,7 +11,7 @@
 /[Uu]ser[Ss]ettings/
 
 # game build folders
-/[Gg]ame[Bb]uild
+#/[Gg]ame[Bb]uild
 /[Ww]indowed[Gg]b
 
 # MemoryCaptures can get excessive in size.
